@@ -1,3 +1,3 @@
 # SubtitleGenerator
 
-Quick script for generate SRT files for MP4
+Quick script for generating SRT files for MP4
